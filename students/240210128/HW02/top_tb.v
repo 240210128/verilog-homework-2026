@@ -1,7 +1,4 @@
-//top_tb.v 测试程序
 module top_tb;
-
-// 内部连线
 wire       clk;
 wire       reset;
 wire       cout;
